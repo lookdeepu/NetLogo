@@ -6,7 +6,7 @@ Other users should visit the [NetLogo home page](http://ccl.northwestern.edu/net
 
 The most recent version of NetLogo can be downloaded [here](https://ccl.northwestern.edu/netlogo/download.shtml).
 
-## I Need Help! Where Do I Look?
+## I Need Help! Where Do I Look in here?
 
 This depends on what you need help with.
 The NetLogo community have several different channels for communicating and the best way to get help quickly is to address your request to the proper channel.
